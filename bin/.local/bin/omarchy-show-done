@@ -1,0 +1,3 @@
+#!/bin/bash
+notify-send "✅ Installation complete!"
+paplay /usr/share/sounds/freedesktop/stereo/complete.oga 2>/dev/null

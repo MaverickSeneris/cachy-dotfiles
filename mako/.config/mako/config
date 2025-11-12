@@ -1,0 +1,17 @@
+# Mako minimal valid config (Gruvbox soft)
+
+background-color=#32302fa6
+text-color=#ebdbb2
+border-color=#d65d0e
+
+border-size=2
+border-radius=6
+
+padding=12
+default-timeout=5000
+max-icon-size=64
+
+font=JetBrainsMono Nerd Font 12
+
+anchor=top-right
+margin=20,20
